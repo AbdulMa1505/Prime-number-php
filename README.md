@@ -1,0 +1,1 @@
+this php script checks for a prime number
